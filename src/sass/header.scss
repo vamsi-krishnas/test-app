@@ -1,0 +1,13 @@
+.header {
+    padding: $padding-small;
+    .logo{
+        width: 6rem;
+    }
+    .fas {
+        font-size: 1rem;
+        &.fa-phone {
+            transform: rotate(85deg);
+            font-size: 1rem;
+        }
+    }
+}
