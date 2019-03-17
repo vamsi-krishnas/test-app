@@ -13,7 +13,7 @@ export const Header = () => {
             <Col sm={1} xs={1}>
                 <Icon iconName="home" />
             </Col>
-            <Col sm={7} xs={6} style={{ textAlign: "center" }}>
+            <Col sm={6} xs={6} style={{ textAlign: "center" }}>
                 <img src={logo} alt="Logo" className="logo" />
             </Col>
             <Col sm={3} xs={3} className="text-align-right">
